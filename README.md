@@ -37,10 +37,4 @@ console.log(num1);
 console.log(num2);
 console.log(num3);
 
-# Meri Assignment
-
-![Mera Screenshot](https://raw.githubusercontent.com/muqadask777-hub/YOUR-REPO-NAME/main/<img width="376" height="145" alt="Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/4460f09d-4b36-4a55-9ccc-da1eefc0886f" />
-)
-.# Meri Assignment
-
 ![Mera Screenshot](https://private-user-images.githubusercontent.com/287395130/608017740-4460f09d-4b36-4a55-9ccc-da1eef554a93)
