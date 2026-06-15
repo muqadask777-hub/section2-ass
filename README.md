@@ -37,7 +37,5 @@ console.log(num1);
 console.log(num2);
 console.log(num3);
 
-[Screenshot](<img width="376" height="145" alt="Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/173ecfa5-ceee-429f-982a-5a561d5837e5" />
-)
-![Image Name](<img width="376" height="145" alt="Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/0d0499ea-dbd1-41a0-b680-2e8a9425dca1" />
+![Mera Screenshot](<img width="376" height="145" alt="Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/8699f3b5-3b91-4609-acfb-160b3f028912" />
 )
