@@ -39,8 +39,8 @@ console.log(num2);
 console.log(num3);
 
 
-![Image name](<img width="376" height="145" alt="Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/170adbeb-5de2-45f0-8de2-fc2064bff262" />
-)
+<img width="376" height="145" alt="Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/ee4db131-595c-4627-9824-a070b69b7dc1" />
+
 
 
 b2.js
