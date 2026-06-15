@@ -37,5 +37,7 @@ console.log(num1);
 console.log(num2);
 console.log(num3);
 
-![Mera Screenshot](<img width="376" height="145" alt="Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/8699f3b5-3b91-4609-acfb-160b3f028912" />
+# Meri Assignment
+
+![Mera Screenshot](https://raw.githubusercontent.com/muqadask777-hub/YOUR-REPO-NAME/main/<img width="376" height="145" alt="Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/4460f09d-4b36-4a55-9ccc-da1eefc0886f" />
 )
