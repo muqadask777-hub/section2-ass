@@ -67,6 +67,15 @@ console.log(typeAnalyser(0));
 console.log(typeAnalyser(""));
 
 
+
+<img width="419" height="449" alt="Screenshot 2026-06-15 184141" src="https://github.com/user-attachments/assets/a7d4ab55-abf9-4b1e-b00b-173da4c6243d" />
+
+
+<img width="296" height="450" alt="Screenshot 2026-06-15 184231" src="https://github.com/user-attachments/assets/6da96732-a29f-4cab-8bd3-a306f936ec94" />
+
+<img width="243" height="232" alt="Screenshot 2026-06-15 184304" src="https://github.com/user-attachments/assets/c6ce453f-6f34-4dc7-a40b-afacb992f739" />
+
+
 b3 code 
 
 function calculateDiscount(price, userType, isMember) {
@@ -99,6 +108,8 @@ console.log(calculateDiscount(1200, "user", true));
 console.log(calculateDiscount(600, "admin", true));
 console.log(calculateDiscount(-50, "user", false));
 console.log(calculateDiscount("abc", "user", false));
+
+<img width="416" height="259" alt="Screenshot 2026-06-15 184458" src="https://github.com/user-attachments/assets/65e1b2df-bb65-4d0f-994f-4326fca9b522" />
 
 
 b4 code
@@ -169,6 +180,11 @@ appConfig = resetConfig();
 
 console.log(appConfig.theme);
 console.log(appConfig.nested.fontSize);
+
+<img width="307" height="165" alt="Screenshot 2026-06-15 184743" src="https://github.com/user-attachments/assets/71bf2425-9ce3-4e37-89d6-e133175a719f" />
+
+
+
 
 
 b5 code
@@ -246,3 +262,7 @@ const newNumbers = removeItem(numbers, 1);
 
 console.log(newNumbers);
 console.log(numbers);
+
+
+<img width="308" height="226" alt="Screenshot 2026-06-15 185203" src="https://github.com/user-attachments/assets/af2e11eb-1265-48a7-9cc0-3e54a4eae737" />
+
