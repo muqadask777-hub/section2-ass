@@ -38,12 +38,14 @@ console.log(num1);
 console.log(num2);
 console.log(num3);
 
+**output**
+
 
 <img width="376" height="145" alt="Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/ee4db131-595c-4627-9824-a070b69b7dc1" />
 
 
 
-b2.js
+# b2.js
 
 function typeAnalyser(value) {
   return {
@@ -66,7 +68,7 @@ console.log(typeAnalyser(true));
 console.log(typeAnalyser(0));
 console.log(typeAnalyser(""));
 
-
+**output**
 
 <img width="419" height="449" alt="Screenshot 2026-06-15 184141" src="https://github.com/user-attachments/assets/a7d4ab55-abf9-4b1e-b00b-173da4c6243d" />
 
@@ -75,8 +77,7 @@ console.log(typeAnalyser(""));
 
 <img width="243" height="232" alt="Screenshot 2026-06-15 184304" src="https://github.com/user-attachments/assets/c6ce453f-6f34-4dc7-a40b-afacb992f739" />
 
-
-b3 code 
+# b3 code 
 
 function calculateDiscount(price, userType, isMember) {
 
@@ -108,11 +109,12 @@ console.log(calculateDiscount(1200, "user", true));
 console.log(calculateDiscount(600, "admin", true));
 console.log(calculateDiscount(-50, "user", false));
 console.log(calculateDiscount("abc", "user", false));
+**output**
 
 <img width="416" height="259" alt="Screenshot 2026-06-15 184458" src="https://github.com/user-attachments/assets/65e1b2df-bb65-4d0f-994f-4326fca9b522" />
 
 
-b4 code
+# b4 code
 
 
 // ====================
@@ -181,13 +183,15 @@ appConfig = resetConfig();
 console.log(appConfig.theme);
 console.log(appConfig.nested.fontSize);
 
+**output**
+
 <img width="307" height="165" alt="Screenshot 2026-06-15 184743" src="https://github.com/user-attachments/assets/71bf2425-9ce3-4e37-89d6-e133175a719f" />
 
 
 
 
 
-b5 code
+# b5 code
 
 
 
@@ -263,6 +267,7 @@ const newNumbers = removeItem(numbers, 1);
 console.log(newNumbers);
 console.log(numbers);
 
+**output**
 
 <img width="308" height="226" alt="Screenshot 2026-06-15 185203" src="https://github.com/user-attachments/assets/af2e11eb-1265-48a7-9cc0-3e54a4eae737" />
 
