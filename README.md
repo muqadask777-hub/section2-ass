@@ -1,3 +1,4 @@
+b1 code
 
 // Part 1: Predict and Explain
 
@@ -39,6 +40,7 @@ console.log(num3);
 
 
 b2.js
+
 function typeAnalyser(value) {
   return {
     input: value,
