@@ -37,5 +37,7 @@ console.log(num1);
 console.log(num2);
 console.log(num3);
 
-![Mera Screenshot](https:"Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/4e5feeb2-02ab-4e61-8330-8869e6e7004f" />
+![Mera Screenshot](<img width="376" height="145" alt="Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/c6de1999-2fdc-400b-b6c0-4ead183c473c" />
 )
+
+b2.js
