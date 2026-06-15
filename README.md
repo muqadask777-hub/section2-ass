@@ -39,6 +39,9 @@ console.log(num2);
 console.log(num3);
 
 
+
+
+
 b2.js
 
 function typeAnalyser(value) {
@@ -168,6 +171,10 @@ console.log(appConfig.nested.fontSize);
 
 
 b5 code
+
+
+
+
 // 1
 
 function addToCart(cart, item) {
