@@ -37,4 +37,5 @@ console.log(num1);
 console.log(num2);
 console.log(num3);
 
-![Mera Screenshot](https://private-user-images.githubusercontent.com/287395130/608017740-4460f09d-4b36-4a55-9ccc-da1eef554a93)
+![Mera Screenshot](https://private-user-images.githubusercontent.com/<img width="376" height="145" alt="Screenshot 2026-06-15 182647" src="https://github.com/user-attachments/assets/4e5feeb2-02ab-4e61-8330-8869e6e7004f" />
+)
